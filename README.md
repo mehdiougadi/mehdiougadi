@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mehdi Ougadi!
 
-A passionate Software Engineering student at Polytechnique Montréal with a keen interest in UX/UI design and full-stack development. I love bringing innovative ideas to life through code and creating impactful solutions that enhance user experiences.
+A passionate Software Engineering student at Polytechnique Montréal with a keen interest in DevOps. I love bringing innovative ideas to life through code and creating impactful solutions that enhance user experiences.
 
 ## 🏆 Achievements
 
