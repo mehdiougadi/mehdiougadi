@@ -35,6 +35,5 @@ A full-stack interactive learning platform featuring real-time multiplayer quizz
 ## 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/mehdi-ougadi-b074971b7/)
-- [GitHub](https://github.com/mehdiougadi)
 
 Feel free to reach out if you want to collaborate on projects or just chat about technology! I'm always excited to connect with fellow developers and create something extraordinary together. 🚀
